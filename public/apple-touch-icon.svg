@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="DeBoa">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d7560"/>
+      <stop offset="1" stop-color="#0b5f4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#bg)"/>
+  <circle cx="90" cy="90" r="54" fill="#e8f9f3"/>
+  <path d="M68 111V70h20c18 0 27 8 27 20s-9 21-27 21H68zm15-12h4c8 0 13-3 13-9s-5-8-13-8h-4v17z" fill="#0d7560"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2556" height="1179" viewBox="0 0 2556 1179">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d7560"/>
+      <stop offset="1" stop-color="#0b5f4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="2556" height="1179" fill="url(#bg)"/>
+  <circle cx="1278" cy="498" r="156" fill="#e8f9f3"/>
+  <text x="1278" y="526" text-anchor="middle" font-family="Arial, sans-serif" font-size="110" font-weight="700" fill="#0d7560">D</text>
+  <text x="1278" y="770" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" fill="#ecfff9">Fique DeBoa</text>
+  <text x="1278" y="844" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" fill="#d1f3e8">Um passo de cada vez</text>
+</svg>
